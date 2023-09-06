@@ -1,9 +1,9 @@
 # 工程概论开篇
 
-| 这个作业属于哪个课程 | [JMU计算21级班级博客](https://edu.cnblogs.com/campus/jmu/ComputerScience21) |
+| 这个作业属于哪个课程 | [首页 - 计算21级 - 集美大学 - 班级博客 - 博客园 (cnblogs.com)](https://edu.cnblogs.com/campus/jmu/ComputerScience21) |
 | -------------------- | ------------------------------------------------------------ |
-| 这个作业要求在哪里   | [工程概论开篇（第一次作业](https://edu.cnblogs.com/campus/jmu/ComputerScience21/homework/13033) |
-| 这个作业的目标       | 掌握课程基本工具，并对课程简单作出自己的见解|
+| 这个作业要求在哪里   | [工程概论开篇（第一次作业） - 作业 - 计算21级 - 班级博客 - 博客园 (cnblogs.com)](https://edu.cnblogs.com/campus/jmu/ComputerScience21/homework/13033) |
+| 这个作业的目标       | 掌握课程基本工具，并对课程简单作出自己的见解                 |
 
 - ## 个人介绍
 
